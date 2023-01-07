@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * helper - brutes/recurses to find sqroot of number
+ * sqrt_helper - brutes/recurses to find sqroot of number
  * @a: number
  * @b: number to test for the square root of @a
  * Return: square root
