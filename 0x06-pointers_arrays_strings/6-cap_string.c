@@ -3,7 +3,7 @@
  * cap_string - capitalizes every first letter of a word in a string
  * skipping separators
  * @s: string
- *
+ * 
  * Return: new string
  */
 char *cap_string(char *s)
